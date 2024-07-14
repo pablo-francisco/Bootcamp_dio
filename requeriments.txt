@@ -1,4 +1,6 @@
 pandas
 matplotlib
-numpy
+numpy == 1.26.4
 seaborn
+tensorflow
+img-preprocess-pipeline==0.0.2
